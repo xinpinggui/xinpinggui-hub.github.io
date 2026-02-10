@@ -9,6 +9,5 @@ status: Published
 venue: 'Inverse Problems'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1088/1361-6420/ab82ee'
-citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, Uniform far-field asymptotics
-of the two-layered Green function in 2D and application to wave scattering in a two-layered medium, Inverse Problems56 (2024), 4143-4184'
+citation: 'Z. Yang, X. Gui, J. Ming and G. Hu,Bayesian approach to inverse time-harmonic acoustic scattering with phaseless far-field data, Inverse Problems 36 (2020), 065012, 30.'
 ---
