@@ -11,13 +11,13 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Xinping Gui's Homepage"
 title_separator          : "-"
-name                     : &name "Long Li"
+name                     : &name "Xinping Gui"
 description              : &description "Postdoctoral researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://longli-hub.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://xinpinggui-hub.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
-#repository               : "longli-hub/long.li.github.io"
+#repository               : ""
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,22 +25,22 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myself.jpg"
+  avatar           : "gui.jpg"
   name             : "Xinping Gui"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
-  location         : "Linz, Austria"
-  employer         : "Johann Radon Institute, Austrian Academy of Sciences"
+  location         : "Trieste, Italy"
+  employer         : "Mathematics Area, SISSA"
   uri              : # URL
-  email            : "Long.Li@ricam.oeaw.ac.at" 
+  email            : "xgui@sissa.it, xinpinggui.sh@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=uZxOlmsAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?user=l5LvgK4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-1117-5418"
+  orcid            : "https://orcid.org/0009-0009-3401-4500"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
