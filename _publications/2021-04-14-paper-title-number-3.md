@@ -1,17 +1,14 @@
 ---
-title: "Imaging of buried obstacles
-in a two-layered medium with phaseless far-field data"
+title: "Improved error estimates for a modified exponential Euler method for the semilinear stochastic heat equation with rough initial data"
 collection: publications
 category:  manuscripts
-permalink: /publications/2021-04-14-paper-title-number-3
+permalink: /publications/2024-03-27-paper-title-number-3
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021-04-14
+date: 2024-03-27
 status: Published
-venue: 'Inverse problems'
+venue: 'Science China. Mathematics'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://doi.org/10.1088/1361-6420/abec1d'
-citation: 'L. Li, J. Yang, B. Zhang and H. Zhang, Imaging of buried obstacles
-in a two-layered medium with phaseless far-field data, Inverse Problems 37 (2021),
-055004.'
+paperurl: 'https://doi.org/10.1088/1361-6420/abec1d](https://doi.org/10.1007/s11425-022-2157-2'
+citation: 'X. Gui, J. Wang, and B. Li, Improved error estimates for a modified exponential Euler method for the semilinear stochastic heat equation with rough initial data, Science China. Mathematics 67 (2024),2873--2898.'
 ---
 
