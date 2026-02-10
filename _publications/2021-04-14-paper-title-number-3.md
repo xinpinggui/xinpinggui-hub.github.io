@@ -2,7 +2,7 @@
 title: "Improved error estimates for a modified exponential Euler method for the semilinear stochastic heat equation with rough initial data"
 collection: publications
 category:  manuscripts
-permalink: /publications/2024-03-27-paper-title-number-3
+permalink: /publications/2024-03-27-paper-title-number-4
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-03-27
 status: Published
