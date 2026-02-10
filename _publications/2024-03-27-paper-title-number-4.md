@@ -8,7 +8,7 @@ date: 2024-03-27
 status: Published
 venue: 'Science China. Mathematics'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://doi.org/10.1088/1361-6420/abec1d](https://doi.org/10.1007/s11425-022-2157-2'
-citation: 'X. Gui, J. Wang, and B. Li, Improved error estimates for a modified exponential Euler method for the semilinear stochastic heat equation with rough initial data, Science China. Mathematics 67 (2024),2873--2898.'
+paperurl: 'https://doi.org/10.1007/s11425-022-2157-2'
+citation: 'X. Gui, B. Li and, J. Wang, Improved error estimates for a modified exponential Euler method for the semilinear stochastic heat equation with rough initial data, Science China. Mathematics 67 (2024),2873--2898.'
 ---
 
