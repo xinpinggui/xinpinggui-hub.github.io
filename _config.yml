@@ -26,9 +26,9 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "myself.jpg"
-  name             : "Long Li"
+  name             : "Xinping Gui"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher in applied mathematics"
+  bio              : "Postdoctoral researcher"
   location         : "Linz, Austria"
   employer         : "Johann Radon Institute, Austrian Academy of Sciences"
   uri              : # URL
